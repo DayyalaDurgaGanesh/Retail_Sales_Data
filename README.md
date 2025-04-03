@@ -41,6 +41,6 @@ git clone https://github.com/DayyalaDurgaGanesh/Data-Cleaning-Project.git
 
 📢 Connect with Me
 🔗 LinkedIn: www.linkedin.com/in/dayyala-durga-ganesh
-📧 Email: www.linkedin.com/in/dayyala-durga-ganesh
+📧 Email: ssdayyaladurgaganesh.29@gmail.com
 
 🚀 If you find this useful, don’t forget to ⭐ the repo!
