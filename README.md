@@ -35,7 +35,7 @@ This project focuses on cleaning and preprocessing a messy dataset using Python 
 bash
 Copy
 Edit
-git clone https://github.com/DayyalaDurgaGanesh/Data-Cleaning-Project.git
+git clone (https://github.com/DayyalaDurgaGanesh/Retail_Sales_Data.git)
 2️⃣ Open and run data_cleaning.py to clean the dataset.
 3️⃣ View the processed data in cleaned_dataset.csv.
 
